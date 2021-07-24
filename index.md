@@ -11,4 +11,4 @@ Example of Time Series Decomposition developed as an example for lecture in Comp
 [Sample Repository](https://github.com/lindsey-calvert/sample)  
 
 
-[![Sorting](https://img.youtube.com/vi/K9fKttKmz8A/0.jpg)](https://www.youtube.com/watch?vK9fKttKmz8A])  
+[![Sorting](https://img.youtube.com/vi/K9fKttKmz8A/0.jpg)](https://www.youtube.com/watch?K9fKttKmz8A])  
