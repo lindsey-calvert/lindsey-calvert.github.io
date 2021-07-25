@@ -1,4 +1,6 @@
 ---
+title: Hello World 
+logo: /pics/
 ---
 [back](./)
 
