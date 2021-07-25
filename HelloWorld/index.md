@@ -14,5 +14,5 @@ Hello World Jupyter Notebook:
 
 
 
-[Also, Check Out This Repository](https://github.com/lindsey-calvert/sample)
+
 
