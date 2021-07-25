@@ -3,7 +3,7 @@ title: Hello World
 ---
 [back](./)
 
-[Ginger](/pics/Ging.jpg)  
+![Ginger](/pics/Ging.jpg)  
 
 
 Hello World Jupyter Notebook:  
