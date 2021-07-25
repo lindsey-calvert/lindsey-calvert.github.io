@@ -1,7 +1,7 @@
 ---
 title: Hello World 
 ---
-[back](lindsey-calvert.github.io/)
+[back](./)
 
 ![Ginger](/pics/Ging.jpg)  
 
