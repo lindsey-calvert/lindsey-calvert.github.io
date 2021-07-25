@@ -8,6 +8,7 @@ logo: [My Picture](/pics/Headshot.jpg)
 
 [Hello World](/HelloWorld)
 
-### Repositories
+### Repositories  
+[Sample](https://github.com/lindsey-calvert/sample)
 
 
