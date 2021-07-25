@@ -1,6 +1,6 @@
 ---
 title: Hello World 
-logo: /pics/
+logo: /pics/Ging.jpg
 ---
 [back](./)
 
