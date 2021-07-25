@@ -3,7 +3,8 @@
 [back](./)
 
 Hello World Jupyter Notebook:
-[HTML](/HelloWorld/Hello World.html)
+[HTML](HelloWorld.html)  
+
 [ipynb](/HelloWorld/Hello World.ipynb)
 
 
