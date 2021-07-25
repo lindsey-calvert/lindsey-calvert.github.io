@@ -1,8 +1,10 @@
 ---
 title: Hello World 
-logo: [Ginger](/pics/Ging.jpg)
 ---
 [back](./)
+
+[Ginger](/pics/Ging.jpg)  
+
 
 Hello World Jupyter Notebook:  
 
